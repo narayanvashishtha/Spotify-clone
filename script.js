@@ -1,9 +1,9 @@
 let songs = [
-  {filePath: `D:/Web%20Development/Spotify-Clone/resources/1.mp3`},
-  {filePath: `D:/Web%20Development/Spotify-Clone/resources/2.mp3`},
-  {filePath: `D:/Web%20Development/Spotify-Clone/resources/3.mp3`},
-  {filePath: `D:/Web%20Development/Spotify-Clone/resources/4.mp3`},
-  {filePath: `D:/Web%20Development/Spotify-Clone/resources/5.mp3`},
+  {filePath: `resources/1.mp3`},
+  {filePath: `resources/2.mp3`},
+  {filePath: `resources/3.mp3`},
+  {filePath: `resources/4.mp3`},
+  {filePath: `resources/5.mp3`},
 ]
 let songIndex = 0;
 
